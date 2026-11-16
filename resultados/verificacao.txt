@@ -1,0 +1,22 @@
+test_balanced_bridge (test_metodos.NumericalTests.test_balanced_bridge) ... ok
+test_bridge_kirchhoff (test_metodos.NumericalTests.test_bridge_kirchhoff) ... ok
+test_exact_regressions (test_metodos.NumericalTests.test_exact_regressions) ... ok
+test_gaussian_pivot_and_preservation (test_metodos.NumericalTests.test_gaussian_pivot_and_preservation) ... ok
+test_integration_exactness (test_metodos.NumericalTests.test_integration_exactness) ... ok
+test_integration_validation (test_metodos.NumericalTests.test_integration_validation) ... ok
+test_invalid_numbers (test_metodos.NumericalTests.test_invalid_numbers) ... ok
+test_mine_conservation (test_metodos.NumericalTests.test_mine_conservation) ... ok
+test_regression_validation (test_metodos.NumericalTests.test_regression_validation) ... ok
+test_seidel_failure_and_initial (test_metodos.NumericalTests.test_seidel_failure_and_initial) ... ok
+test_singular (test_metodos.NumericalTests.test_singular) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.006s
+
+OK
+
+Cenário interativo 1: APROVADO
+Cenário interativo 2: APROVADO
+Cenário interativo 3: APROVADO
+Cenário interativo 4: APROVADO
+Cenário interativo 5: APROVADO

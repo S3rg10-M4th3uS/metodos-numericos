@@ -1,0 +1,15 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambiente Nix pessoal, fora do repositório compartilhado
+/flake.nix
+/flake.lock
+/.envrc
+/.direnv/
+/result
+/result-*
+/NIX.local.md
+
+# Metadados de download do Windows
+*:Zone.Identifier
