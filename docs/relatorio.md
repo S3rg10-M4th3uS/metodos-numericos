@@ -205,7 +205,7 @@ A implementação informa entradas inválidas, sistemas singulares, resistência
 
 Foram executados 11 testes automatizados, abrangendo pivoteamento, preservação dos dados, singularidade, conservação dos materiais, leis de Kirchhoff, ponte equilibrada, convergência e falha de Gauss-Seidel, regressões conhecidas, ortogonalidade dos resíduos, exatidão de Simpson para um polinômio cúbico, exatidão dos Trapézios para uma reta e rejeição de entradas inválidas. Todos passaram.
 
-# Divisão igualitária das responsabilidades
+# Divisão das responsabilidades
 
 As responsabilidades estão distribuídas entre modelagem, implementação, revisão e apresentação dos resultados.
 
