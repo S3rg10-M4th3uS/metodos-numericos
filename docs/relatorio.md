@@ -207,7 +207,7 @@ Foram executados 11 testes automatizados, abrangendo pivoteamento, preservação
 
 # Divisão igualitária das responsabilidades
 
-A equipe adota a seguinte distribuição, equilibrando modelagem, implementação, revisão e exposição oral. Esta divisão registra as responsabilidades atribuídas; antes do envio, cada integrante deve verificar que o texto corresponde às atividades efetivamente realizadas.
+As responsabilidades estão distribuídas entre modelagem, implementação, revisão e apresentação dos resultados.
 
 **Sérgio Matheus Araujo Silva:** responsável pelo problema 01.3, pela organização do programa e pelas instruções de execução; participa da revisão do problema 02.1. Na apresentação do problema 04.1, explica o contexto, a transcrição dos dados e a modelagem da integral.
 
@@ -223,4 +223,4 @@ Os volumes determinados atendem às três demandas de materiais. A solução ite
 
 # Referência
 
-UNIVASF. **Atividade complementar de Cálculo Numérico**, arquivo fornecido `Atividade_complementar2026.2_LES710C.pdf`, problemas 01.3 (p. 2), 02.1 (pp. 2–3), 03.3 (p. 4) e 04.1 (pp. 4–5). O nome do arquivo indica 2026.2, enquanto o cabeçalho interno apresenta 2025.2.
+UNIVASF. **Atividade complementar de Cálculo Numérico**, `Atividade_complementar2026.2_LES710C.pdf`, problemas 01.3 (p. 2), 02.1 (pp. 2–3), 03.3 (p. 4) e 04.1 (pp. 4–5).

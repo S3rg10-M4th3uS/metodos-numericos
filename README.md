@@ -33,7 +33,7 @@ profundidades não negativas e número par de subintervalos.
 - `tests/test_metodos.py`: testes matemáticos e validação de entradas.
 - `docs/relatorio.md`: fonte editável do relatório.
 - `docs/apresentacao.typ`: fonte editável dos slides.
-- `docs/roteiro.md`: roteiro de fala, perguntas e checklist de entrega.
+- `docs/roteiro.md`: roteiro de apresentação e perguntas para ensaio.
 - `entrega/`: relatório em PDF e DOCX, slides em PDF e pacote ZIP.
 
 ## Resultados
@@ -63,13 +63,3 @@ pandoc docs/relatorio.md -o entrega/Relatorio_Calculo_Numerico.pdf --pdf-engine=
 pandoc docs/relatorio.md -o entrega/Relatorio_Calculo_Numerico.docx
 typst compile docs/apresentacao.typ entrega/Apresentacao_Calculo_Numerico.pdf
 ```
-
-## Entrega
-
-O PDF original informa apresentação em **17 ou 19/11/2026**, enquanto a mensagem
-recebida cita 2025; confirmar a data da equipe. O prazo de envio informado pelo
-usuário é **20/11/2026**. Todos os integrantes devem comparecer.
-A divisão igualitária de responsabilidades consta do relatório e deve ser
-conferida pela equipe para representar o trabalho efetivamente realizado.
-O código ainda precisa ser publicado em um repositório ou pasta compartilhada
-para obter o link exigido; nenhum link remoto ou envio à plataforma foi criado.
